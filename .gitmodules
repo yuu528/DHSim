@@ -1,0 +1,3 @@
+[submodule "lib/AHK-CvJoyInterface"]
+	path = lib/AHK-CvJoyInterface
+	url = https://github.com/evilC/AHK-CvJoyInterface
